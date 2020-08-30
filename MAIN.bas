@@ -3,7 +3,7 @@
 DIM N AS INTEGER
 DIM AMOUNT AS INTEGER
 
-PRINT "THIS PROGRAM WAS MADE BY OGAN 兒KUL AKA RYUGUU CHAN"
+PRINT "THIS PROGRAM WAS MADE BY OGAN 兒KUL AKA RYUGUU CHAN" 'yea it really dind't liked tht letter...
 A: PRINT "---------------------------------------------------"
 PRINT ""
 
