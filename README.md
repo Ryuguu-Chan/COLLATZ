@@ -11,3 +11,6 @@ It's a DOS program that will do the Collatz Conjecture.
 * Press enter
 ![alt text](https://github.com/Ryuguu-Chan/COLLATZ/blob/master/3.png?raw=true)
 
+# TODOLIST
+* Adding Ctrl+C support
+
