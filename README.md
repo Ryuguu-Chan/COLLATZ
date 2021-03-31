@@ -12,5 +12,5 @@ It's a DOS program that will do the Collatz Conjecture.
 ![alt text](https://github.com/Ryuguu-Chan/COLLATZ/blob/master/3.png?raw=true)
 
 # TODOLIST
-* Adding Ctrl+C support
+* Adding Ctrl+C support but especially making exiting the program possible without the user banging their head like the Angry German Kid
 
