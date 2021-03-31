@@ -13,4 +13,5 @@ It's a DOS program that will do the Collatz Conjecture.
 
 # TODOLIST
 * Adding Ctrl+C support but especially making exiting the program possible without the user banging their head like the Angry German Kid
+* Adding a graph support
 
